@@ -12,10 +12,10 @@ While checking the web directory i found all files with a ".crypt" extension, wo
 
 ### Inside the code : 
 - The skids are only using a simple base64 to their code, why tf lol? well ok continue ...
-![extension](https://raw.githubusercontent.com/9aylas/S3X-B3B4S-file-decryption/main/03.png)
+![lol](https://raw.githubusercontent.com/9aylas/S3X-B3B4S-file-decryption/main/03.png)
 
 - Ook now stop, its a compression, they even don't know what is a real encryption algorithm ...
-![extension](https://raw.githubusercontent.com/9aylas/S3X-B3B4S-file-decryption/main/04.png)
+![lol](https://raw.githubusercontent.com/9aylas/S3X-B3B4S-file-decryption/main/04.png)
 - #### Mission accomplished : i won 0,001% of fun & waste of time.
 
 ## Decryption using php
